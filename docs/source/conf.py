@@ -18,7 +18,6 @@ extensions = [
     # 'sphinx.ext.autosummary',
     # 'sphinx.ext.intersphinx',
     'nbsphinx',
-    'nbsphinx_link'
 ]
 
 intersphinx_mapping = {
