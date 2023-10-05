@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'MAE4182'
+copyright = '2023, Taeyoung Lee'
+author = 'Taeyoung Lee'
 
 release = '0.1'
 version = '0.1.0'
@@ -12,11 +12,13 @@ version = '0.1.0'
 # -- General configuration
 
 extensions = [
-    'sphinx.ext.duration',
-    'sphinx.ext.doctest',
-    'sphinx.ext.autodoc',
-    'sphinx.ext.autosummary',
-    'sphinx.ext.intersphinx',
+    # 'sphinx.ext.duration',
+    # 'sphinx.ext.doctest',
+    # 'sphinx.ext.autodoc',
+    # 'sphinx.ext.autosummary',
+    # 'sphinx.ext.intersphinx',
+    'nbsphinx',
+    'nbsphinx_link'
 ]
 
 intersphinx_mapping = {
@@ -32,4 +34,6 @@ templates_path = ['_templates']
 html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
-epub_show_urls = 'footnote'
+# epub_show_urls = 'footnote'
+
+# exclude_patterns = [ 'Notebook*', 'Recitation*' ]
