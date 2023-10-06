@@ -8,7 +8,11 @@ MAE 4182 Electro Mechanical Control Systems
    01_Laplace_Transform
    02_Linearization
    03_Time_Response
+   04_Steady_state_error
+
    Time_Response_Secord_Order_Sys
    Time_Spec_Example
    Effects_of_Pole_Location
    Steady_State_Error_2
+   Root_Locus
+
