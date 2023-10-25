@@ -15,4 +15,6 @@ MAE 4182 Electro Mechanical Control Systems
    Effects_of_Pole_Location
    Steady_State_Error_2
    Root_Locus
+   Bode_plot.ipynb
+   Effects_of_Pole_Location_2
 
