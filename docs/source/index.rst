@@ -9,6 +9,7 @@ MAE 4182 Electro Mechanical Control Systems
    02_Linearization
    03_Time_Response
    04_Steady_state_error
+   05_Bode_Plot
 
    Time_Response_Secord_Order_Sys
    Time_Spec_Example
