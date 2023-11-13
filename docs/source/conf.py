@@ -36,3 +36,5 @@ html_theme = 'sphinx_rtd_theme'
 # epub_show_urls = 'footnote'
 
 # exclude_patterns = [ 'Notebook*', 'Recitation*' ]
+
+nbsphinx_allow_errors = True
