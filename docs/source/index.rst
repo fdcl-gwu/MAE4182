@@ -20,4 +20,5 @@ MAE 4182 Electro Mechanical Control Systems
    Effects_of_Pole_Location_2
    Design_Spacecraft_PD
    Design_Spacecraft_PI
+   Design_Aircraft_PID
 
