@@ -22,4 +22,7 @@ MAE 4182 Electro Mechanical Control Systems
    Design_Spacecraft_PI
    Design_Aircraft_PID
    Design_Spacecraft_PD_freq
+   LQR_pendulum
+   KalmanFilter_pendulum
+    
 
